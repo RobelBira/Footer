@@ -1,0 +1,22 @@
+.main-footer{
+    color: aliceblue;
+    background-color: rgb(83, 82, 80);
+/* padding-top: 3em; */
+position: relative;
+bottom: 0;
+width: 100%;
+
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding:0 40px 0 40px;
+}
+.col-sm{
+   justify-items: center;
+}
+.list-unstyled{
+    list-style: none;
+   
+}
